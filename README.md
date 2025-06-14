@@ -1,4 +1,4 @@
 # cihnika
 Personal Reading-&-Annotation Vault
 
-`cihnika` is from Telugu/Sanskrit word for cihna (mark) meaning to mark / highlight.
+`cihnika` is a Telugu/Sanskrit word for cihna (mark/highlight).
